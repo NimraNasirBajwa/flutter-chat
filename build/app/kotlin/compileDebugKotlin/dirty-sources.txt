@@ -1,0 +1,2 @@
+C:\automation\Flutter-chat\android\app\src\main\kotlin\com\norgic\vdk_flutter_chat_example\MainActivity.kt
+C:\automation\Flutter-chat\android\app\src\main\kotlin\com\norgic\example\MainActivity.kt

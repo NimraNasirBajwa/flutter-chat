@@ -1,0 +1,2 @@
+com/norgic/vdotok_connect/BuildConfig.java
+ com.norgic.vdotok_connect.BuildConfig

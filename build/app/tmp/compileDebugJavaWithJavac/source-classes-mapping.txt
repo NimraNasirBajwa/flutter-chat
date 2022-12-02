@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/vdotok/flutterchat/BuildConfig.java
+ com.vdotok.flutterchat.BuildConfig

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\automation\\Flutter-chat\\build\\video_player_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Nimra Nasir\\.gradle\\caches\\transforms-2\\files-2.1\\4b69917b6950e6ef1da474f591b6eb7c\\core-1.7.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\automation\\Flutter-chat\\build\\video_player_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Nimra Nasir\\.gradle\\caches\\transforms-2\\files-2.1\\4b69917b6950e6ef1da474f591b6eb7c\\core-1.7.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\automation\\Flutter-chat\\build\\video_player_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Nimra Nasir\\.gradle\\caches\\transforms-2\\files-2.1\\4b69917b6950e6ef1da474f591b6eb7c\\core-1.7.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\automation\\Flutter-chat\\build\\video_player_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Nimra Nasir\\.gradle\\caches\\transforms-2\\files-2.1\\4b69917b6950e6ef1da474f591b6eb7c\\core-1.7.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
