@@ -41,17 +41,15 @@ dependencies:
   open_file: ^3.2.1
   vdotok_connect: "0.0.8"
   video_player: ^2.4.5
-
    #path: ../flutter-sdk-connect/
   
 dev_dependencies:
-  flutter_test:
-    sdk: flutter
   integration_test:
+    sdk: flutter
+  flutter_test:
     sdk: flutter
   build_runner:
   json_serializable:
-
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

@@ -124,7 +124,6 @@ class _LoginScreenState extends State<LoginScreen> {
                       return LoadingButton();
                     else
                       return SignInButtonFile(
-                        
                         name: "Sign In",
                         handlePress: handlePress,
                       );

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\automation\\Flutter-chat\\build\\path_provider_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-my\\values-my.xml",
+            "outputFile": "C:\\automation\\vdotok\\Flutter-chat\\build\\path_provider_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-my\\values-my.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Nimra Nasir\\.gradle\\caches\\transforms-2\\files-2.1\\ac78bbe10ad4f94574af2b8c72300f6d\\core-1.6.0\\res\\values-my\\values-my.xml",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "outputFile": "C:\\automation\\Flutter-chat\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\values-my\\values-my.xml",
+            "outputFile": "C:\\automation\\vdotok\\Flutter-chat\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\values-my\\values-my.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Nimra Nasir\\.gradle\\caches\\transforms-2\\files-2.1\\ac78bbe10ad4f94574af2b8c72300f6d\\core-1.6.0\\res\\values-my\\values-my.xml",

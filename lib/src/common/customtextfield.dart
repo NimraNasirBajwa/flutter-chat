@@ -36,7 +36,6 @@ class _CustomTextFieldState extends State<CustomTextField> {
       padding: EdgeInsets.symmetric(horizontal: 17),
       //  height: 38,
       child: TextFormField(
-        key: Key('password'),
           controller: myController,
           //   maxLines: null,
           textInputAction:

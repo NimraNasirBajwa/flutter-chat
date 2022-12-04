@@ -126,7 +126,6 @@ class _SignInScreenState extends State<SignInScreen> {
                                     height: 16,
                                   ),
                                   CustomTextField(
-
                                       "Password", _passwordController, false),
                                   //SizedBox(height: 156),
 

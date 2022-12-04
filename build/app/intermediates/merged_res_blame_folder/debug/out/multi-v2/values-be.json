@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\automation\\Flutter-chat\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-be\\values-be.xml",
+            "outputFile": "C:\\automation\\vdotok\\Flutter-chat\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-be\\values-be.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Nimra Nasir\\.gradle\\caches\\transforms-2\\files-2.1\\862e240323c2b26d66f2b871b19373f1\\jetified-exoplayer-core-2.18.1\\res\\values-be\\values-be.xml",
+                    "source": "C:\\Users\\Nimra Nasir\\.gradle\\caches\\transforms-2\\files-2.1\\5c4f059c8440979ed979ccf4224a9fe3\\jetified-exoplayer-core-2.18.0\\res\\values-be\\values-be.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Nimra Nasir\\.gradle\\caches\\transforms-2\\files-2.1\\3e5db14b51ad36e7516aed6cf96900d3\\core-1.8.0\\res\\values-be\\values-be.xml",
+                    "source": "C:\\Users\\Nimra Nasir\\.gradle\\caches\\transforms-2\\files-2.1\\b01e1c8698334ccddbde0b27be164aef\\core-1.8.0\\res\\values-be\\values-be.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -1,369 +1,369 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:1:1-61:12
-INJECTED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:1:1-61:12
-INJECTED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:1:1-61:12
-INJECTED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:1:1-61:12
-MERGED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:1:1-61:12
-MERGED from [:file_picker] C:\automation\Flutter-chat\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-17:12
-MERGED from [:image_picker_android] C:\automation\Flutter-chat\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
-MERGED from [:flutter_plugin_android_lifecycle] C:\automation\Flutter-chat\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:path_provider_android] C:\automation\Flutter-chat\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:vdotok_connect] C:\automation\Flutter-chat\build\vdotok_connect\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:connectivity_plus] C:\automation\Flutter-chat\build\connectivity_plus\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [:shared_preferences_android] C:\automation\Flutter-chat\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:audioplayers] C:\automation\Flutter-chat\build\audioplayers\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [:device_info] C:\automation\Flutter-chat\build\device_info\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:integration_test] C:\automation\Flutter-chat\build\integration_test\intermediates\library_manifest\debug\AndroidManifest.xml:7:1-12:12
-MERGED from [:open_file] C:\automation\Flutter-chat\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-24:12
-MERGED from [:fluttertoast] C:\automation\Flutter-chat\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:video_player_android] C:\automation\Flutter-chat\build\video_player_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\34b9d870e2078cc5077a27c52a4176ce\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\577c1713439ddc49123fa0babcb89035\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
-MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\ce5dd2b3f946b5bd3a929c4439f52638\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\fec47583a86c082473b89a21be2eafe9\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.test:rules:1.2.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\4e751c20fbba331db64f1d86d32b1760\rules-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.test.espresso:espresso-core:3.2.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\8f1d7c3922ff107cb34248044b6427dd\espresso-core-3.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.test:runner:1.2.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\39561ebc71308e1575e1f7172f7ca1f5\runner-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\34a6594100ff654e1ba0b55584615425\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\8e807abae3c3e7ea71b9bdedf5a69274\jetified-exoplayer-hls-2.18.1\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\ed53ee3a46dc63de2183db7b8415ef3f\jetified-exoplayer-dash-2.18.1\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\8d30c5100e890e3ea2ede42edd025743\jetified-exoplayer-smoothstreaming-2.18.1\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\862e240323c2b26d66f2b871b19373f1\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\b4614693dc003998b430d4892d858d76\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.media:media:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\3547228a780f7cb2c835c3120d682d65\media-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\f123bf7b0c89dd6923baa72f48869fc6\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\f75ca8010d711e2e571e0f3d65f56a8e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\9c9e51533923871aa38174f48cb8f489\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\c7caceb5df89952b7e62438331cd2d59\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\4b06a55a215db2dd023b82a214420bff\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\29b8d10740fbecc3978bc34eddd75430\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\b56782abfa57e14f69b992393779febc\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\ceead5f7cb119353c30117bc07e28c22\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\942fbad9675eceef77996db8f8f500d7\customview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\a42366d6e0e881a7b4e28c87eec489f0\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\82ac8f9a57aba54da6918ecc12b43243\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.8.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\3e5db14b51ad36e7516aed6cf96900d3\core-1.8.0\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\9326b24e25b36c6f35f616827faa8ec0\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\02068b476d38f8018352aaac8a84cefa\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.test:monitor:1.2.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\481c457fdeddb00785d252c9d3de6b2d\monitor-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\68eba5e281b8cf061065f7bdf5cf8ed1\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\003d052475a94e5a7b5c4d74b878de55\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
-MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\347de771ea1237a28b9cdfeb4a5e167e\jetified-exoplayer-datasource-2.18.1\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\c9c8c5087392afd326d9a75b379ac701\jetified-exoplayer-extractor-2.18.1\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\075cb6097ea6813c8c1cb85829ac1fb0\jetified-exoplayer-decoder-2.18.1\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\acffdae46a2caccd60f3b2533f945152\jetified-exoplayer-database-2.18.1\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\ceb2bd5552ff987c09cd0268b0c3289e\jetified-exoplayer-common-2.18.1\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\968ff09a85a7d354cbfbd6f0f57ade74\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\d0cedeb822bde9a386387456d87fd8fb\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\4d66d8e7607b95c47c8b0959ab4d9ca9\print-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\e3ba300c4e80d947df4b8e3c28054be3\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\fb589d091375a09dd7e077e0636fcae4\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\2f97c4f67dac79afdfc137b0336231c0\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\9dcc1a22dcb3e6de99e7c81533ae861c\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\f1d58b229a187bb47788db9d57ede91b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\13f169d6c9a74481a52d12d04d86a61d\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\e0e28cb638299eba15e3a5a45807f785\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\00a7a527cb46e17d3807099583e33653\espresso-idling-resource-3.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\c3d825aa15f669ea783b06ba2cf7cb7e\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\automation\Flutter-chat\android\app\src\debug\AndroidManifest.xml:1:1-7:12
-INJECTED from C:\automation\Flutter-chat\android\app\src\debug\AndroidManifest.xml:1:1-7:12
-INJECTED from C:\automation\Flutter-chat\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:1:1-61:12
+INJECTED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:1:1-61:12
+INJECTED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:1:1-61:12
+INJECTED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:1:1-61:12
+MERGED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:1:1-61:12
+MERGED from [:file_picker] C:\automation\vdotok\Flutter-chat\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:image_picker_android] C:\automation\vdotok\Flutter-chat\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\automation\vdotok\Flutter-chat\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_android] C:\automation\vdotok\Flutter-chat\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:vdotok_connect] C:\automation\vdotok\Flutter-chat\build\vdotok_connect\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:connectivity_plus] C:\automation\vdotok\Flutter-chat\build\connectivity_plus\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:shared_preferences_android] C:\automation\vdotok\Flutter-chat\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:audioplayers] C:\automation\vdotok\Flutter-chat\build\audioplayers\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:device_info] C:\automation\vdotok\Flutter-chat\build\device_info\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:integration_test] C:\automation\vdotok\Flutter-chat\build\integration_test\intermediates\library_manifest\debug\AndroidManifest.xml:7:1-12:12
+MERGED from [:open_file] C:\automation\vdotok\Flutter-chat\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-24:12
+MERGED from [:fluttertoast] C:\automation\vdotok\Flutter-chat\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:video_player_android] C:\automation\vdotok\Flutter-chat\build\video_player_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\57a90252cc551c78860d0ba24ae38758\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\5ea5b4622c1e514d71a68b6348c05146\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\92ab90595cbde8124a713f1172a74d9f\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\2f89cf9a50ef1e22b0be220b2849bcbe\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.test:rules:1.2.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\d27faeb3e0dc09be40879462b3faf5fd\rules-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\b556ee4433419177150a3bc54f5e0129\espresso-core-3.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:runner:1.2.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\74a853ed8ac73d5f6c905597aa769db2\runner-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\eb5e902f43ed19ceba0fac0417bfedf7\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\ba814053f0d84bce944085d6cb0649e4\jetified-exoplayer-hls-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\22b768551936506c1d30c86524c0ae33\jetified-exoplayer-dash-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\9fdefca68792271c39a32690cb46dd15\jetified-exoplayer-smoothstreaming-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\5c4f059c8440979ed979ccf4224a9fe3\jetified-exoplayer-core-2.18.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\423b04e5504dadbbb53b56b51317d00f\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\1bef95ef3fa3671745261b823bd386d6\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\8d87f4fb69e1232fcb9110d22d1a9c82\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\73b7c31795d689ab715fb37ceab27385\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\2a0ae47ceb73bdaf298b5c0ddcfc96a6\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\5ace5e65a960a2f1b6c3ee36e934c67b\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\540db5897c7371505494e14f3f646063\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\1492583c9236cf7b2a1d915b64840bb0\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\cbb43a62b97135467e6cdcfbc9b85edf\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\b89814b4767411318e734ab46ac10c07\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\2e9eaeac45ab4192e7a017f12148b545\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\37be87245945449ad1273247f2f89941\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\27f4e35fd81a5a5bbcf2952bd5f95337\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\b01e1c8698334ccddbde0b27be164aef\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\c2e4ba4b80110356c0683aaedb3ca7fa\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\f362930b518988fbddec9820ea59f51c\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:monitor:1.2.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\40123753ac74b13d6ea99af9007d501a\monitor-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\24e514f8ca3375c75dfc5298620d0907\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\aef784cd699e140763bd2e09391ed8f2\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\4df30769329493dca5532d26ecad4635\jetified-exoplayer-datasource-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\829f50191e1a4ed878cbc7ebb019a0e7\jetified-exoplayer-extractor-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\aa6308d9f62c7dd4e54099d46107a751\jetified-exoplayer-decoder-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\1b2498bcaa8bc93c01c08edee4561799\jetified-exoplayer-database-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\8fb0bbf30f9676337b663b3afd52c303\jetified-exoplayer-common-2.18.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\4d398b54ea946dac49dccca56cddc3a2\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\3d517be32e4e7b38c2af9de1ccb9ccaf\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\5cf3c0d56f0490e32dd7293676e63aaa\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\4f5a41b74767c28b86fb0de3a82e3d69\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\0e63d1085b7ac276553fe77da2d4841f\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\4770dc390c7f30bf002c4dc903366a42\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\d44149634b8f51379b0530b8137dee44\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\26b2044055831cdddc5bea7440c1c049\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\064f10b20e76d64c04da7c2906ce0a72\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\b4ae954738d172adc643cc23e5b0844a\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\85d92f3bc27eb76afc4f3c359abb7bde\espresso-idling-resource-3.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\880addf9ffd65baead8f519efaa9dc0c\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\automation\vdotok\Flutter-chat\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\automation\vdotok\Flutter-chat\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\automation\vdotok\Flutter-chat\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 	package
-		ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:2:5-37
-		INJECTED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\automation\Flutter-chat\android\app\src\debug\AndroidManifest.xml
+		ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:2:5-37
+		INJECTED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\automation\vdotok\Flutter-chat\android\app\src\debug\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:1:1-61:12
-		INJECTED from C:\automation\Flutter-chat\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:1:1-61:12
+		INJECTED from C:\automation\vdotok\Flutter-chat\android\app\src\debug\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:1:1-61:12
-		INJECTED from C:\automation\Flutter-chat\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:1:1-61:12
+		INJECTED from C:\automation\vdotok\Flutter-chat\android\app\src\debug\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:4:5-67
-MERGED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:4:5-67
-MERGED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:4:5-67
+ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:4:5-67
 	android:name
-		ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:4:22-64
 uses-permission#android.permission.CAMERA
-ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:5:5-65
+ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:5:5-65
 	android:name
-		ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:5:22-62
+		ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:5:22-62
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:6:5-80
+ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:6:5-80
 	android:name
-		ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:6:22-78
+		ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:6:22-78
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:7:5-70
+ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:7:5-70
 	android:name
-		ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:7:22-68
+		ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:7:22-68
 application
-ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:8:4-60:19
-MERGED from [:image_picker_android] C:\automation\Flutter-chat\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
-MERGED from [:image_picker_android] C:\automation\Flutter-chat\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
-MERGED from [:open_file] C:\automation\Flutter-chat\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-22:19
-MERGED from [:open_file] C:\automation\Flutter-chat\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-22:19
-MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\ce5dd2b3f946b5bd3a929c4439f52638\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
-MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\ce5dd2b3f946b5bd3a929c4439f52638\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
-MERGED from [androidx.core:core:1.8.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\3e5db14b51ad36e7516aed6cf96900d3\core-1.8.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.8.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\3e5db14b51ad36e7516aed6cf96900d3\core-1.8.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\003d052475a94e5a7b5c4d74b878de55\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\003d052475a94e5a7b5c4d74b878de55\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:8:4-60:19
+MERGED from [:image_picker_android] C:\automation\vdotok\Flutter-chat\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker_android] C:\automation\vdotok\Flutter-chat\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:open_file] C:\automation\vdotok\Flutter-chat\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-22:19
+MERGED from [:open_file] C:\automation\vdotok\Flutter-chat\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-22:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\92ab90595cbde8124a713f1172a74d9f\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\92ab90595cbde8124a713f1172a74d9f\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\b01e1c8698334ccddbde0b27be164aef\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\b01e1c8698334ccddbde0b27be164aef\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\aef784cd699e140763bd2e09391ed8f2\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\aef784cd699e140763bd2e09391ed8f2\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 	android:requestLegacyExternalStorage
-		ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:11:9-52
+		ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:11:9-52
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.8.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\3e5db14b51ad36e7516aed6cf96900d3\core-1.8.0\AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.8.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\b01e1c8698334ccddbde0b27be164aef\core-1.8.0\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:9:9-33
+		ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:9:9-33
 	android:icon
-		ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:10:9-43
+		ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:10:9-43
 activity#com.vdotok.flutterchat.MainActivity
-ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:13:9-41:20
+ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:13:9-41:20
 	android:launchMode
-		ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:15:13-43
+		ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:15:13-43
 	android:hardwareAccelerated
-		ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:18:13-47
+		ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:18:13-47
 	android:windowSoftInputMode
-		ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:19:13-55
+		ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:19:13-55
 	android:configChanges
-		ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:17:13-163
+		ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:17:13-163
 	android:theme
-		ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:16:13-47
+		ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:16:13-47
 	android:name
-		ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:14:13-41
+		ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:14:13-41
 meta-data#io.flutter.embedding.android.NormalTheme
-ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:24:13-27:17
+ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:24:13-27:17
 	android:resource
-		ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:26:15-52
+		ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:26:15-52
 	android:name
-		ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:25:15-70
+		ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:25:15-70
 meta-data#io.flutter.embedding.android.SplashScreenDrawable
-ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:33:13-36:17
+ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:33:13-36:17
 	android:resource
-		ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:35:15-61
+		ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:35:15-61
 	android:name
-		ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:34:15-79
+		ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:34:15-79
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:37:13-40:29
+ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:37:13-40:29
 action#android.intent.action.MAIN
-ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:38:17-68
+ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:38:17-68
 	android:name
-		ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:38:25-66
+		ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:38:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:39:17-76
+ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:39:17-76
 	android:name
-		ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:39:27-74
+		ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:39:27-74
 meta-data#flutterEmbedding
-ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:44:9-46:33
+ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:44:9-46:33
 	android:value
-		ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:46:13-30
+		ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:46:13-30
 	android:name
-		ADDED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml:45:13-44
+		ADDED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml:45:13-44
 uses-sdk
-INJECTED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml
-MERGED from [:file_picker] C:\automation\Flutter-chat\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:file_picker] C:\automation\Flutter-chat\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:image_picker_android] C:\automation\Flutter-chat\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:image_picker_android] C:\automation\Flutter-chat\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:flutter_plugin_android_lifecycle] C:\automation\Flutter-chat\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:flutter_plugin_android_lifecycle] C:\automation\Flutter-chat\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:path_provider_android] C:\automation\Flutter-chat\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:path_provider_android] C:\automation\Flutter-chat\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:vdotok_connect] C:\automation\Flutter-chat\build\vdotok_connect\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:vdotok_connect] C:\automation\Flutter-chat\build\vdotok_connect\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:connectivity_plus] C:\automation\Flutter-chat\build\connectivity_plus\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:connectivity_plus] C:\automation\Flutter-chat\build\connectivity_plus\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences_android] C:\automation\Flutter-chat\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences_android] C:\automation\Flutter-chat\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:audioplayers] C:\automation\Flutter-chat\build\audioplayers\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-44
-MERGED from [:audioplayers] C:\automation\Flutter-chat\build\audioplayers\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-44
-MERGED from [:device_info] C:\automation\Flutter-chat\build\device_info\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:device_info] C:\automation\Flutter-chat\build\device_info\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:integration_test] C:\automation\Flutter-chat\build\integration_test\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-44
-MERGED from [:integration_test] C:\automation\Flutter-chat\build\integration_test\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-44
-MERGED from [:open_file] C:\automation\Flutter-chat\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-44
-MERGED from [:open_file] C:\automation\Flutter-chat\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-44
-MERGED from [:fluttertoast] C:\automation\Flutter-chat\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:fluttertoast] C:\automation\Flutter-chat\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:video_player_android] C:\automation\Flutter-chat\build\video_player_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:video_player_android] C:\automation\Flutter-chat\build\video_player_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\34b9d870e2078cc5077a27c52a4176ce\multidex-2.0.0\AndroidManifest.xml:20:5-43
-MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\34b9d870e2078cc5077a27c52a4176ce\multidex-2.0.0\AndroidManifest.xml:20:5-43
-MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\577c1713439ddc49123fa0babcb89035\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
-MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\577c1713439ddc49123fa0babcb89035\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
-MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\ce5dd2b3f946b5bd3a929c4439f52638\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\ce5dd2b3f946b5bd3a929c4439f52638\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\fec47583a86c082473b89a21be2eafe9\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\fec47583a86c082473b89a21be2eafe9\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.test:rules:1.2.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\4e751c20fbba331db64f1d86d32b1760\rules-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.test:rules:1.2.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\4e751c20fbba331db64f1d86d32b1760\rules-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.test.espresso:espresso-core:3.2.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\8f1d7c3922ff107cb34248044b6427dd\espresso-core-3.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.test.espresso:espresso-core:3.2.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\8f1d7c3922ff107cb34248044b6427dd\espresso-core-3.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.test:runner:1.2.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\39561ebc71308e1575e1f7172f7ca1f5\runner-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.test:runner:1.2.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\39561ebc71308e1575e1f7172f7ca1f5\runner-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\34a6594100ff654e1ba0b55584615425\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\34a6594100ff654e1ba0b55584615425\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\8e807abae3c3e7ea71b9bdedf5a69274\jetified-exoplayer-hls-2.18.1\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\8e807abae3c3e7ea71b9bdedf5a69274\jetified-exoplayer-hls-2.18.1\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\ed53ee3a46dc63de2183db7b8415ef3f\jetified-exoplayer-dash-2.18.1\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\ed53ee3a46dc63de2183db7b8415ef3f\jetified-exoplayer-dash-2.18.1\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\8d30c5100e890e3ea2ede42edd025743\jetified-exoplayer-smoothstreaming-2.18.1\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\8d30c5100e890e3ea2ede42edd025743\jetified-exoplayer-smoothstreaming-2.18.1\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\862e240323c2b26d66f2b871b19373f1\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\862e240323c2b26d66f2b871b19373f1\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\b4614693dc003998b430d4892d858d76\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\b4614693dc003998b430d4892d858d76\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.media:media:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\3547228a780f7cb2c835c3120d682d65\media-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\3547228a780f7cb2c835c3120d682d65\media-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\f123bf7b0c89dd6923baa72f48869fc6\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\f123bf7b0c89dd6923baa72f48869fc6\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\f75ca8010d711e2e571e0f3d65f56a8e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\f75ca8010d711e2e571e0f3d65f56a8e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\9c9e51533923871aa38174f48cb8f489\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\9c9e51533923871aa38174f48cb8f489\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\c7caceb5df89952b7e62438331cd2d59\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\c7caceb5df89952b7e62438331cd2d59\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\4b06a55a215db2dd023b82a214420bff\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\4b06a55a215db2dd023b82a214420bff\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\29b8d10740fbecc3978bc34eddd75430\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\29b8d10740fbecc3978bc34eddd75430\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\b56782abfa57e14f69b992393779febc\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\b56782abfa57e14f69b992393779febc\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\ceead5f7cb119353c30117bc07e28c22\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\ceead5f7cb119353c30117bc07e28c22\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\942fbad9675eceef77996db8f8f500d7\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\942fbad9675eceef77996db8f8f500d7\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\a42366d6e0e881a7b4e28c87eec489f0\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\a42366d6e0e881a7b4e28c87eec489f0\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\82ac8f9a57aba54da6918ecc12b43243\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\82ac8f9a57aba54da6918ecc12b43243\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.8.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\3e5db14b51ad36e7516aed6cf96900d3\core-1.8.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.8.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\3e5db14b51ad36e7516aed6cf96900d3\core-1.8.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\9326b24e25b36c6f35f616827faa8ec0\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\9326b24e25b36c6f35f616827faa8ec0\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\02068b476d38f8018352aaac8a84cefa\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\02068b476d38f8018352aaac8a84cefa\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.test:monitor:1.2.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\481c457fdeddb00785d252c9d3de6b2d\monitor-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.test:monitor:1.2.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\481c457fdeddb00785d252c9d3de6b2d\monitor-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\68eba5e281b8cf061065f7bdf5cf8ed1\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\68eba5e281b8cf061065f7bdf5cf8ed1\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\003d052475a94e5a7b5c4d74b878de55\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\003d052475a94e5a7b5c4d74b878de55\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\347de771ea1237a28b9cdfeb4a5e167e\jetified-exoplayer-datasource-2.18.1\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\347de771ea1237a28b9cdfeb4a5e167e\jetified-exoplayer-datasource-2.18.1\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\c9c8c5087392afd326d9a75b379ac701\jetified-exoplayer-extractor-2.18.1\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\c9c8c5087392afd326d9a75b379ac701\jetified-exoplayer-extractor-2.18.1\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\075cb6097ea6813c8c1cb85829ac1fb0\jetified-exoplayer-decoder-2.18.1\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\075cb6097ea6813c8c1cb85829ac1fb0\jetified-exoplayer-decoder-2.18.1\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\acffdae46a2caccd60f3b2533f945152\jetified-exoplayer-database-2.18.1\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\acffdae46a2caccd60f3b2533f945152\jetified-exoplayer-database-2.18.1\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\ceb2bd5552ff987c09cd0268b0c3289e\jetified-exoplayer-common-2.18.1\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\ceb2bd5552ff987c09cd0268b0c3289e\jetified-exoplayer-common-2.18.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\968ff09a85a7d354cbfbd6f0f57ade74\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\968ff09a85a7d354cbfbd6f0f57ade74\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\d0cedeb822bde9a386387456d87fd8fb\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\d0cedeb822bde9a386387456d87fd8fb\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\4d66d8e7607b95c47c8b0959ab4d9ca9\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\4d66d8e7607b95c47c8b0959ab4d9ca9\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\e3ba300c4e80d947df4b8e3c28054be3\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\e3ba300c4e80d947df4b8e3c28054be3\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\fb589d091375a09dd7e077e0636fcae4\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\fb589d091375a09dd7e077e0636fcae4\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\2f97c4f67dac79afdfc137b0336231c0\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\2f97c4f67dac79afdfc137b0336231c0\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\9dcc1a22dcb3e6de99e7c81533ae861c\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\9dcc1a22dcb3e6de99e7c81533ae861c\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\f1d58b229a187bb47788db9d57ede91b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\f1d58b229a187bb47788db9d57ede91b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\13f169d6c9a74481a52d12d04d86a61d\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\13f169d6c9a74481a52d12d04d86a61d\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\e0e28cb638299eba15e3a5a45807f785\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\e0e28cb638299eba15e3a5a45807f785\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\00a7a527cb46e17d3807099583e33653\espresso-idling-resource-3.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\00a7a527cb46e17d3807099583e33653\espresso-idling-resource-3.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\c3d825aa15f669ea783b06ba2cf7cb7e\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\c3d825aa15f669ea783b06ba2cf7cb7e\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\automation\Flutter-chat\android\app\src\debug\AndroidManifest.xml
-INJECTED from C:\automation\Flutter-chat\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml
+MERGED from [:file_picker] C:\automation\vdotok\Flutter-chat\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] C:\automation\vdotok\Flutter-chat\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker_android] C:\automation\vdotok\Flutter-chat\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker_android] C:\automation\vdotok\Flutter-chat\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\automation\vdotok\Flutter-chat\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\automation\vdotok\Flutter-chat\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\automation\vdotok\Flutter-chat\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\automation\vdotok\Flutter-chat\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:vdotok_connect] C:\automation\vdotok\Flutter-chat\build\vdotok_connect\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:vdotok_connect] C:\automation\vdotok\Flutter-chat\build\vdotok_connect\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity_plus] C:\automation\vdotok\Flutter-chat\build\connectivity_plus\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity_plus] C:\automation\vdotok\Flutter-chat\build\connectivity_plus\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] C:\automation\vdotok\Flutter-chat\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] C:\automation\vdotok\Flutter-chat\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:audioplayers] C:\automation\vdotok\Flutter-chat\build\audioplayers\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-44
+MERGED from [:audioplayers] C:\automation\vdotok\Flutter-chat\build\audioplayers\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-44
+MERGED from [:device_info] C:\automation\vdotok\Flutter-chat\build\device_info\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:device_info] C:\automation\vdotok\Flutter-chat\build\device_info\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:integration_test] C:\automation\vdotok\Flutter-chat\build\integration_test\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-44
+MERGED from [:integration_test] C:\automation\vdotok\Flutter-chat\build\integration_test\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-44
+MERGED from [:open_file] C:\automation\vdotok\Flutter-chat\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-44
+MERGED from [:open_file] C:\automation\vdotok\Flutter-chat\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-44
+MERGED from [:fluttertoast] C:\automation\vdotok\Flutter-chat\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] C:\automation\vdotok\Flutter-chat\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:video_player_android] C:\automation\vdotok\Flutter-chat\build\video_player_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:video_player_android] C:\automation\vdotok\Flutter-chat\build\video_player_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\57a90252cc551c78860d0ba24ae38758\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\57a90252cc551c78860d0ba24ae38758\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\5ea5b4622c1e514d71a68b6348c05146\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\5ea5b4622c1e514d71a68b6348c05146\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\92ab90595cbde8124a713f1172a74d9f\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\92ab90595cbde8124a713f1172a74d9f\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\2f89cf9a50ef1e22b0be220b2849bcbe\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\2f89cf9a50ef1e22b0be220b2849bcbe\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.test:rules:1.2.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\d27faeb3e0dc09be40879462b3faf5fd\rules-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:rules:1.2.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\d27faeb3e0dc09be40879462b3faf5fd\rules-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\b556ee4433419177150a3bc54f5e0129\espresso-core-3.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\b556ee4433419177150a3bc54f5e0129\espresso-core-3.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.2.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\74a853ed8ac73d5f6c905597aa769db2\runner-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.2.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\74a853ed8ac73d5f6c905597aa769db2\runner-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\eb5e902f43ed19ceba0fac0417bfedf7\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\eb5e902f43ed19ceba0fac0417bfedf7\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\ba814053f0d84bce944085d6cb0649e4\jetified-exoplayer-hls-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\ba814053f0d84bce944085d6cb0649e4\jetified-exoplayer-hls-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\22b768551936506c1d30c86524c0ae33\jetified-exoplayer-dash-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\22b768551936506c1d30c86524c0ae33\jetified-exoplayer-dash-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\9fdefca68792271c39a32690cb46dd15\jetified-exoplayer-smoothstreaming-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\9fdefca68792271c39a32690cb46dd15\jetified-exoplayer-smoothstreaming-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\5c4f059c8440979ed979ccf4224a9fe3\jetified-exoplayer-core-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\5c4f059c8440979ed979ccf4224a9fe3\jetified-exoplayer-core-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\423b04e5504dadbbb53b56b51317d00f\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\423b04e5504dadbbb53b56b51317d00f\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\1bef95ef3fa3671745261b823bd386d6\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\1bef95ef3fa3671745261b823bd386d6\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\8d87f4fb69e1232fcb9110d22d1a9c82\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\8d87f4fb69e1232fcb9110d22d1a9c82\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\73b7c31795d689ab715fb37ceab27385\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\73b7c31795d689ab715fb37ceab27385\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\2a0ae47ceb73bdaf298b5c0ddcfc96a6\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\2a0ae47ceb73bdaf298b5c0ddcfc96a6\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\5ace5e65a960a2f1b6c3ee36e934c67b\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\5ace5e65a960a2f1b6c3ee36e934c67b\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\540db5897c7371505494e14f3f646063\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\540db5897c7371505494e14f3f646063\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\1492583c9236cf7b2a1d915b64840bb0\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\1492583c9236cf7b2a1d915b64840bb0\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\cbb43a62b97135467e6cdcfbc9b85edf\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\cbb43a62b97135467e6cdcfbc9b85edf\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\b89814b4767411318e734ab46ac10c07\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\b89814b4767411318e734ab46ac10c07\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\2e9eaeac45ab4192e7a017f12148b545\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\2e9eaeac45ab4192e7a017f12148b545\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\37be87245945449ad1273247f2f89941\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\37be87245945449ad1273247f2f89941\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\27f4e35fd81a5a5bbcf2952bd5f95337\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\27f4e35fd81a5a5bbcf2952bd5f95337\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.8.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\b01e1c8698334ccddbde0b27be164aef\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\b01e1c8698334ccddbde0b27be164aef\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\c2e4ba4b80110356c0683aaedb3ca7fa\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\c2e4ba4b80110356c0683aaedb3ca7fa\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\f362930b518988fbddec9820ea59f51c\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\f362930b518988fbddec9820ea59f51c\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.2.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\40123753ac74b13d6ea99af9007d501a\monitor-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.2.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\40123753ac74b13d6ea99af9007d501a\monitor-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\24e514f8ca3375c75dfc5298620d0907\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\24e514f8ca3375c75dfc5298620d0907\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\aef784cd699e140763bd2e09391ed8f2\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\aef784cd699e140763bd2e09391ed8f2\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\4df30769329493dca5532d26ecad4635\jetified-exoplayer-datasource-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\4df30769329493dca5532d26ecad4635\jetified-exoplayer-datasource-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\829f50191e1a4ed878cbc7ebb019a0e7\jetified-exoplayer-extractor-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\829f50191e1a4ed878cbc7ebb019a0e7\jetified-exoplayer-extractor-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\aa6308d9f62c7dd4e54099d46107a751\jetified-exoplayer-decoder-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\aa6308d9f62c7dd4e54099d46107a751\jetified-exoplayer-decoder-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\1b2498bcaa8bc93c01c08edee4561799\jetified-exoplayer-database-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\1b2498bcaa8bc93c01c08edee4561799\jetified-exoplayer-database-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\8fb0bbf30f9676337b663b3afd52c303\jetified-exoplayer-common-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\8fb0bbf30f9676337b663b3afd52c303\jetified-exoplayer-common-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\4d398b54ea946dac49dccca56cddc3a2\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\4d398b54ea946dac49dccca56cddc3a2\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\3d517be32e4e7b38c2af9de1ccb9ccaf\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\3d517be32e4e7b38c2af9de1ccb9ccaf\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\5cf3c0d56f0490e32dd7293676e63aaa\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\5cf3c0d56f0490e32dd7293676e63aaa\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\4f5a41b74767c28b86fb0de3a82e3d69\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\4f5a41b74767c28b86fb0de3a82e3d69\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\0e63d1085b7ac276553fe77da2d4841f\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\0e63d1085b7ac276553fe77da2d4841f\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\4770dc390c7f30bf002c4dc903366a42\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\4770dc390c7f30bf002c4dc903366a42\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\d44149634b8f51379b0530b8137dee44\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\d44149634b8f51379b0530b8137dee44\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\26b2044055831cdddc5bea7440c1c049\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\26b2044055831cdddc5bea7440c1c049\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\064f10b20e76d64c04da7c2906ce0a72\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\064f10b20e76d64c04da7c2906ce0a72\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\b4ae954738d172adc643cc23e5b0844a\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\b4ae954738d172adc643cc23e5b0844a\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\85d92f3bc27eb76afc4f3c359abb7bde\espresso-idling-resource-3.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\85d92f3bc27eb76afc4f3c359abb7bde\espresso-idling-resource-3.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\880addf9ffd65baead8f519efaa9dc0c\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\880addf9ffd65baead8f519efaa9dc0c\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\automation\vdotok\Flutter-chat\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\automation\vdotok\Flutter-chat\android\app\src\debug\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\automation\Flutter-chat\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\automation\vdotok\Flutter-chat\android\app\src\debug\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\automation\Flutter-chat\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\automation\Flutter-chat\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\automation\vdotok\Flutter-chat\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\automation\vdotok\Flutter-chat\android\app\src\debug\AndroidManifest.xml
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from [:file_picker] C:\automation\Flutter-chat\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
-MERGED from [:open_file] C:\automation\Flutter-chat\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-80
-MERGED from [:open_file] C:\automation\Flutter-chat\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-80
+ADDED from [:file_picker] C:\automation\vdotok\Flutter-chat\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
+MERGED from [:open_file] C:\automation\vdotok\Flutter-chat\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-80
+MERGED from [:open_file] C:\automation\vdotok\Flutter-chat\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-80
 	android:name
-		ADDED from [:file_picker] C:\automation\Flutter-chat\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-77
+		ADDED from [:file_picker] C:\automation\vdotok\Flutter-chat\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-77
 queries
-ADDED from [:file_picker] C:\automation\Flutter-chat\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-15:15
+ADDED from [:file_picker] C:\automation\vdotok\Flutter-chat\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-15:15
 intent#action:name:android.intent.action.GET_CONTENT+data:mimeType:*/*
-ADDED from [:file_picker] C:\automation\Flutter-chat\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:9-14:18
+ADDED from [:file_picker] C:\automation\vdotok\Flutter-chat\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:9-14:18
 action#android.intent.action.GET_CONTENT
-ADDED from [:file_picker] C:\automation\Flutter-chat\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-72
+ADDED from [:file_picker] C:\automation\vdotok\Flutter-chat\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-72
 	android:name
-		ADDED from [:file_picker] C:\automation\Flutter-chat\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:21-69
+		ADDED from [:file_picker] C:\automation\vdotok\Flutter-chat\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:21-69
 data
-ADDED from [:file_picker] C:\automation\Flutter-chat\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-44
+ADDED from [:file_picker] C:\automation\vdotok\Flutter-chat\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-44
 	android:mimeType
-		ADDED from [:file_picker] C:\automation\Flutter-chat\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:19-41
+		ADDED from [:file_picker] C:\automation\vdotok\Flutter-chat\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:19-41
 provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
-ADDED from [:image_picker_android] C:\automation\Flutter-chat\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
+ADDED from [:image_picker_android] C:\automation\vdotok\Flutter-chat\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
 	android:grantUriPermissions
-		ADDED from [:image_picker_android] C:\automation\Flutter-chat\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-47
+		ADDED from [:image_picker_android] C:\automation\vdotok\Flutter-chat\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-47
 	android:authorities
-		ADDED from [:image_picker_android] C:\automation\Flutter-chat\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-74
+		ADDED from [:image_picker_android] C:\automation\vdotok\Flutter-chat\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-74
 	android:exported
-		ADDED from [:image_picker_android] C:\automation\Flutter-chat\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
+		ADDED from [:image_picker_android] C:\automation\vdotok\Flutter-chat\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
 	android:name
-		ADDED from [:image_picker_android] C:\automation\Flutter-chat\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-82
+		ADDED from [:image_picker_android] C:\automation\vdotok\Flutter-chat\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-82
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:image_picker_android] C:\automation\Flutter-chat\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:75
+ADDED from [:image_picker_android] C:\automation\vdotok\Flutter-chat\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:75
 	android:resource
-		ADDED from [:image_picker_android] C:\automation\Flutter-chat\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-72
+		ADDED from [:image_picker_android] C:\automation\vdotok\Flutter-chat\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-72
 	android:name
-		ADDED from [:image_picker_android] C:\automation\Flutter-chat\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
+		ADDED from [:image_picker_android] C:\automation\vdotok\Flutter-chat\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:connectivity_plus] C:\automation\Flutter-chat\build\connectivity_plus\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
-MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\862e240323c2b26d66f2b871b19373f1\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\862e240323c2b26d66f2b871b19373f1\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\ceb2bd5552ff987c09cd0268b0c3289e\jetified-exoplayer-common-2.18.1\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\ceb2bd5552ff987c09cd0268b0c3289e\jetified-exoplayer-common-2.18.1\AndroidManifest.xml:24:5-79
+ADDED from [:connectivity_plus] C:\automation\vdotok\Flutter-chat\build\connectivity_plus\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\5c4f059c8440979ed979ccf4224a9fe3\jetified-exoplayer-core-2.18.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\5c4f059c8440979ed979ccf4224a9fe3\jetified-exoplayer-core-2.18.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\8fb0bbf30f9676337b663b3afd52c303\jetified-exoplayer-common-2.18.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.0] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\8fb0bbf30f9676337b663b3afd52c303\jetified-exoplayer-common-2.18.0\AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from [:connectivity_plus] C:\automation\Flutter-chat\build\connectivity_plus\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-76
+		ADDED from [:connectivity_plus] C:\automation\vdotok\Flutter-chat\build\connectivity_plus\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-76
 uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
-ADDED from [:open_file] C:\automation\Flutter-chat\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-83
+ADDED from [:open_file] C:\automation\vdotok\Flutter-chat\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-83
 	android:name
-		ADDED from [:open_file] C:\automation\Flutter-chat\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-80
+		ADDED from [:open_file] C:\automation\vdotok\Flutter-chat\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-80
 provider#com.crazecoder.openfile.FileProvider
-ADDED from [:open_file] C:\automation\Flutter-chat\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-21:20
+ADDED from [:open_file] C:\automation\vdotok\Flutter-chat\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-21:20
 	android:grantUriPermissions
-		ADDED from [:open_file] C:\automation\Flutter-chat\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
+		ADDED from [:open_file] C:\automation\vdotok\Flutter-chat\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
 	android:authorities
-		ADDED from [:open_file] C:\automation\Flutter-chat\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-88
+		ADDED from [:open_file] C:\automation\vdotok\Flutter-chat\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-88
 	android:exported
-		ADDED from [:open_file] C:\automation\Flutter-chat\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+		ADDED from [:open_file] C:\automation\vdotok\Flutter-chat\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
 	tools:replace
-		ADDED from [:open_file] C:\automation\Flutter-chat\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-48
+		ADDED from [:open_file] C:\automation\vdotok\Flutter-chat\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-48
 	android:name
-		ADDED from [:open_file] C:\automation\Flutter-chat\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-64
+		ADDED from [:open_file] C:\automation\vdotok\Flutter-chat\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-64
 uses-library#androidx.window.extensions
-ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\ce5dd2b3f946b5bd3a929c4439f52638\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\92ab90595cbde8124a713f1172a74d9f\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
 	android:required
-		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\ce5dd2b3f946b5bd3a929c4439f52638\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\92ab90595cbde8124a713f1172a74d9f\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\ce5dd2b3f946b5bd3a929c4439f52638\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\92ab90595cbde8124a713f1172a74d9f\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
 uses-library#androidx.window.sidecar
-ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\ce5dd2b3f946b5bd3a929c4439f52638\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\92ab90595cbde8124a713f1172a74d9f\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
 	android:required
-		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\ce5dd2b3f946b5bd3a929c4439f52638\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\92ab90595cbde8124a713f1172a74d9f\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\ce5dd2b3f946b5bd3a929c4439f52638\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Nimra Nasir\.gradle\caches\transforms-2\files-2.1\92ab90595cbde8124a713f1172a74d9f\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
