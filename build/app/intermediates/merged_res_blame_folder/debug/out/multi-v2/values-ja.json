@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\automation\\vdotok\\Flutter-chat\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ja\\values-ja.xml",
+            "outputFile": "C:\\automation\\flutter-chat\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ja\\values-ja.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Nimra Nasir\\.gradle\\caches\\transforms-2\\files-2.1\\5c4f059c8440979ed979ccf4224a9fe3\\jetified-exoplayer-core-2.18.0\\res\\values-ja\\values-ja.xml",

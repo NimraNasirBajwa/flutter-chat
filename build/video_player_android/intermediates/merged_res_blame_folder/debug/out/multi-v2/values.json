@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\automation\\vdotok\\Flutter-chat\\build\\video_player_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\automation\\flutter-chat\\build\\video_player_android\\intermediates\\res\\merged\\debug\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Nimra Nasir\\.gradle\\caches\\transforms-2\\files-2.1\\24e514f8ca3375c75dfc5298620d0907\\lifecycle-runtime-2.3.1\\res\\values\\values.xml",
@@ -78,7 +78,7 @@
             ]
         },
         {
-            "outputFile": "C:\\automation\\vdotok\\Flutter-chat\\build\\video_player_android\\intermediates\\res\\merged\\debug\\values\\values.xml",
+            "outputFile": "C:\\automation\\flutter-chat\\build\\video_player_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Nimra Nasir\\.gradle\\caches\\transforms-2\\files-2.1\\24e514f8ca3375c75dfc5298620d0907\\lifecycle-runtime-2.3.1\\res\\values\\values.xml",

@@ -6,15 +6,12 @@
 // @dart = 2.17
 
 import 'dart:io'; // flutter_ignore: dart_io_import.
-import 'package:image_picker_android/image_picker_android.dart';
 import 'package:path_provider_android/path_provider_android.dart';
 import 'package:shared_preferences_android/shared_preferences_android.dart';
 import 'package:video_player_android/video_player_android.dart';
 import 'package:image_picker_ios/image_picker_ios.dart';
-import 'package:path_provider_ios/path_provider_ios.dart';
 import 'package:shared_preferences_ios/shared_preferences_ios.dart';
 import 'package:video_player_avfoundation/video_player_avfoundation.dart';
-import 'package:connectivity_plus_linux/connectivity_plus_linux.dart';
 import 'package:path_provider_linux/path_provider_linux.dart';
 import 'package:shared_preferences_linux/shared_preferences_linux.dart';
 import 'package:path_provider_macos/path_provider_macos.dart';
@@ -28,16 +25,6 @@ class _PluginRegistrant {
   @pragma('vm:entry-point')
   static void register() {
     if (Platform.isAndroid) {
-      try {
-        ImagePickerAndroid.registerWith();
-      } catch (err) {
-        print(
-          '`image_picker_android` threw an error: $err. '
-          'The app may not function as expected until you remove this plugin from pubspec.yaml'
-        );
-        rethrow;
-      }
-
       try {
         PathProviderAndroid.registerWith();
       } catch (err) {
@@ -80,16 +67,6 @@ class _PluginRegistrant {
       }
 
       try {
-        PathProviderIOS.registerWith();
-      } catch (err) {
-        print(
-          '`path_provider_ios` threw an error: $err. '
-          'The app may not function as expected until you remove this plugin from pubspec.yaml'
-        );
-        rethrow;
-      }
-
-      try {
         SharedPreferencesIOS.registerWith();
       } catch (err) {
         print(
@@ -110,16 +87,6 @@ class _PluginRegistrant {
       }
 
     } else if (Platform.isLinux) {
-      try {
-        ConnectivityLinux.registerWith();
-      } catch (err) {
-        print(
-          '`connectivity_plus_linux` threw an error: $err. '
-          'The app may not function as expected until you remove this plugin from pubspec.yaml'
-        );
-        rethrow;
-      }
-
       try {
         PathProviderLinux.registerWith();
       } catch (err) {

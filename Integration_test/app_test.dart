@@ -7,14 +7,14 @@ void main() {
     IntegrationTestWidgetsFlutterBinding.ensureInitialized();
     testWidgets('Full app Test', (tester) async {
     app.main();
-    tester.pumpAndSettle();
-    final emailFromField = find.text('Username/Email');
-    final passwordFromField = find.text('Password');
+    await tester.pumpAndSettle();
+    final emailFromField = find.byType(TextFormField).first;
+    final passwordFromField = find.byType(TextFormField).last;
     final signInButton = find.byType(ElevatedButton).first;
-    tester.enterText(emailFromField, 'Nimra');
-    tester.enterText(passwordFromField, 'Nimra123');
-    tester.tap(signInButton);
-    tester.pumpAndSettle();
+    await tester.enterText(emailFromField, 'android');
+    await tester.enterText(passwordFromField, '12345678');
+    await tester.tap(signInButton);
+    await tester.pumpAndSettle();
     });
   });
 }
