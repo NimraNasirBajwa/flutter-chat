@@ -13,7 +13,7 @@ void main() {
     final passwordFromField = find.byType(TextFormField).last;
     final signInButton = find.byType(ElevatedButton).first;
 
-    await tester.enterText(emailFromField, 'android');
+    await tester.enterText(emailFromField, 'android1');
     await tester.enterText(passwordFromField, '12345678');
     await tester.tap(signInButton);
     await tester.pumpAndSettle();
