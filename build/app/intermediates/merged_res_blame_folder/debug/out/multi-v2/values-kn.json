@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\automation\\flutter-chat\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kn\\values-kn.xml",
+            "outputFile": "C:\\automation\\GitHub Repos\\flutter-chat\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kn\\values-kn.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Nimra Nasir\\.gradle\\caches\\transforms-2\\files-2.1\\b01e1c8698334ccddbde0b27be164aef\\core-1.8.0\\res\\values-kn\\values-kn.xml",

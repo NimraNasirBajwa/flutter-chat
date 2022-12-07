@@ -1,18 +1,18 @@
 [
     {
-        "merged": "C:\\automation\\flutter-chat\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "merged": "C:\\automation\\GitHub Repos\\flutter-chat\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
         "source": "C:\\Users\\Nimra Nasir\\.gradle\\caches\\transforms-2\\files-2.1\\ac78bbe10ad4f94574af2b8c72300f6d\\core-1.6.0\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
-        "merged": "C:\\automation\\flutter-chat\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\Nimra Nasir\\.gradle\\caches\\transforms-2\\files-2.1\\ac78bbe10ad4f94574af2b8c72300f6d\\core-1.6.0\\res\\layout-v21\\notification_action_tombstone.xml"
+        "merged": "C:\\automation\\GitHub Repos\\flutter-chat\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Nimra Nasir\\.gradle\\caches\\transforms-2\\files-2.1\\ac78bbe10ad4f94574af2b8c72300f6d\\core-1.6.0\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "C:\\automation\\flutter-chat\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "merged": "C:\\automation\\GitHub Repos\\flutter-chat\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
         "source": "C:\\Users\\Nimra Nasir\\.gradle\\caches\\transforms-2\\files-2.1\\ac78bbe10ad4f94574af2b8c72300f6d\\core-1.6.0\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "C:\\automation\\flutter-chat\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\Nimra Nasir\\.gradle\\caches\\transforms-2\\files-2.1\\ac78bbe10ad4f94574af2b8c72300f6d\\core-1.6.0\\res\\layout-v21\\notification_action.xml"
+        "merged": "C:\\automation\\GitHub Repos\\flutter-chat\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Nimra Nasir\\.gradle\\caches\\transforms-2\\files-2.1\\ac78bbe10ad4f94574af2b8c72300f6d\\core-1.6.0\\res\\layout-v21\\notification_action_tombstone.xml"
     }
 ]

@@ -8,9 +8,11 @@ void main() {
     testWidgets('Full app Test', (tester) async {
     app.main();
     await tester.pumpAndSettle();
+
     final emailFromField = find.byType(TextFormField).first;
     final passwordFromField = find.byType(TextFormField).last;
     final signInButton = find.byType(ElevatedButton).first;
+
     await tester.enterText(emailFromField, 'android');
     await tester.enterText(passwordFromField, '12345678');
     await tester.tap(signInButton);
