@@ -17,6 +17,8 @@ void main() {
     await tester.enterText(passwordFromField, '12345678');
     await tester.tap(signInButton);
     await tester.pumpAndSettle();
+
+
     });
   });
 }
